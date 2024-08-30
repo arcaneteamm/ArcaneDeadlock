@@ -1,0 +1,4 @@
+1) open arcanehack.rar
+2) enter password - deadlock
+3) run Loader.exe
+4) press Insert to open the menu in the game
