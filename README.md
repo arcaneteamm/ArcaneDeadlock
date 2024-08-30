@@ -8,7 +8,7 @@ Supported game version: Steam
 
 Supported Game Mode: Windowed
 
-Supported OS Windows: 10&11 x64, versions (2004 / 20H2 / 21H1 / 21H2 / 22H2 / 23H2)
+Supported OS Windows: 10&11 x64
 
 Supported anti-cheats: In-game anti-cheat
 
